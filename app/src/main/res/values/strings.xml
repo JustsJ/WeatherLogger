@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherLogger</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="input_enter_location">enter location name:</string>
+    <string name="content_description_delete">delete this location entry</string>
+    <string name="content_description_add">Add new weather location</string>
+    <string name="format_temperature">%1$.1f°C</string>
+</resources>
